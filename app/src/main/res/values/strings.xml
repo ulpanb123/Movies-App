@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="age_restr">13+</string>
+    <string name="avengers_end_game">Avengers:      End Game</string>
+    <string name="avengers_jenre">Action, Adventure, Fantasy</string>
+    <string name="reviews">125 reviews</string>
+    <string name="storyline">Storyline</string>
+    <string name="storyline_content">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
+    <string name="cast">Cast</string>
+    <string name="robert">Robert Downey Jr.</string>
+    <string name="evans">Chris Evans</string>
+    <string name="ruffalo">Mark Ruffalo</string>
+    <string name="hemsworth">Chris Hemsworth</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies_list">Movies List</string>
+    <string name="avg_duration">137 MIN</string>
+    <string name="_13">13+</string>
+
+
+    <string name="error_movie_not_found">Sorry! Something went wrong - we can not find this movie in the system.</string>
+
+    <string name="movies_list_reviews_template">%d REVIEWS</string>
+    <string name="movies_list_allowed_age_template">%d+</string>
+</resources>
